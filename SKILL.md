@@ -247,7 +247,3 @@ Also report file locations:
 - Transcription uses Parakeet MLX via the transcribe-audio skill
 - English only (Parakeet is optimized for English)
 - First transcription run downloads the Parakeet model (~1.2GB)
-
-## Update check
-
-This skill is managed by [skills.sh](https://skills.sh). To check for updates, run `npx skills update`.
