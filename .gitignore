@@ -3,3 +3,8 @@ audio/
 transcripts/
 summaries/
 recording-session.json
+server/meet-recorder-audio
+server/__pycache__/
+
+# Private local data (not published)
+data/
